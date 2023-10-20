@@ -28,16 +28,16 @@ Hi 👋, I am <b>Ykaro Roberto</b> an enthusiastic and ambitious full stack deve
 <br/>  
 
 <div align="center">
-- 🔭 I’m currently on a journey to build great things  
+🔭 I’m currently on a journey to build great things  
   
 
-- 🌱 I’m currently learning everything 🤓  
+🌱 I’m currently learning everything 🤓  
   
 
-- 🤝 I’m looking for help with finding projects to contribute to!  
+🤝 I’m looking for help with finding projects to contribute to!  
   
 
-- 💬 Ask me about open source, web development, and community management  
+💬 Ask me about open source, web development, and community management  
 </div>
 
 
