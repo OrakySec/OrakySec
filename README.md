@@ -76,5 +76,7 @@ Hi 👋, I am <b>Ykaro Roberto</b> an enthusiastic and ambitious full stack deve
 <br/>  
 
 <div align="center">
+  
 ![Profile views counter](https://komarev.com/ghpvc/?username=OrakySec&&style=flat-square)  
+
 <div>/
