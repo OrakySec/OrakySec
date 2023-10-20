@@ -1,6 +1,10 @@
-## <div align="center">Hello World!</div>  
-  
+<div align="center">
+<img src="https://media.giphy.com/media/SUcnmocyRKkfSil9xd/giphy.gif" width=100%>
+</div>
 
+<div align="center"><b><h2>Hello World!</h2></b></div>  
+  
+<div align="center">
 <a href="https://linkedin.com/in/OrakySec" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
@@ -12,17 +16,19 @@
 </a>
 <a href="https://github.com/OrakySec" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>  
-  
+</a>
+</div>
 
-Hi 👋, I am Ykaro Roberto an enthusiastic and ambitious full stack developer.  
-  
+<br/>
+
+<div align="center">
+Hi 👋, I am <b>Ykaro Roberto</b> an enthusiastic and ambitious full stack developer & cyber security.  
+</div>
 
 <br/>  
 
 
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
+
 
 - 🔭 I’m currently on a journey to build great things  
   
@@ -36,7 +42,7 @@ Hi 👋, I am Ykaro Roberto an enthusiastic and ambitious full stack developer.
 - 💬 Ask me about open source, web development, and community management  
 
 
-</td><td valign="top" width="50%">
+
 
 <div align="center">
 <img src="https://media.giphy.com/media/DGcSYd4r88As9V3QnL/giphy.gif" align="center" style="width: 100%" />
