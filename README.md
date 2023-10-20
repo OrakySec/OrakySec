@@ -71,7 +71,9 @@ Hi 👋, I am <b>Ykaro Roberto</b> an enthusiastic and ambitious full stack deve
 
 <br/>  
 
-  
+<div align="center">
+<img src="https://media.giphy.com/media/J8t9H4Z7Wp3fq/giphy.gif" width=50%>
+</div>
 
 <br/>  
 
@@ -80,3 +82,4 @@ Hi 👋, I am <b>Ykaro Roberto</b> an enthusiastic and ambitious full stack deve
 ![Profile views counter](https://komarev.com/ghpvc/?username=OrakySec&&style=flat-square)  
 
 <div>/
+
