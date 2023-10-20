@@ -27,9 +27,7 @@ Hi 👋, I am <b>Ykaro Roberto</b> an enthusiastic and ambitious full stack deve
 
 <br/>  
 
-
-
-
+<div align="center">
 - 🔭 I’m currently on a journey to build great things  
   
 
@@ -40,21 +38,13 @@ Hi 👋, I am <b>Ykaro Roberto</b> an enthusiastic and ambitious full stack deve
   
 
 - 💬 Ask me about open source, web development, and community management  
+</div>
 
 
-
-
-<div align="center">
-<img src="https://media.giphy.com/media/DGcSYd4r88As9V3QnL/giphy.gif" align="center" style="width: 100%" />
-</div>  
-
-
-</td></tr></table>  
 
 <br/>  
 
-
-## Languages and Tools  
+<div align="center"><b><h2>Languages and Tools</h2></b></div> 
 <div align="center">  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="25" /></a>  
@@ -68,8 +58,7 @@ Hi 👋, I am <b>Ykaro Roberto</b> an enthusiastic and ambitious full stack deve
 
 <br/>  
 
-
-## Github Stats  
+<div align="center"><b><h2>Github Stats</h2></b></div> 
 <table><tr><td valign="top" width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=OrakySec&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
@@ -86,13 +75,6 @@ Hi 👋, I am <b>Ykaro Roberto</b> an enthusiastic and ambitious full stack deve
 
 <br/>  
 
+<div align="center">
 ![Profile views counter](https://komarev.com/ghpvc/?username=OrakySec&&style=flat-square)  
-  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<div>/
